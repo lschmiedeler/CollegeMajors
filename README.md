@@ -1,2 +1,2 @@
 # CollegeMajors
-Databases (CSCI 4710) project at Saint Louis University.
+Databases (CSCI 4710) team project at Saint Louis University.
